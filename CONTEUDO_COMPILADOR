@@ -1,0 +1,11 @@
+1- coversoes implicita e explicita
+2- tipos bool, int, float, char, string
+3- operadores logicos e aritmeticos
+4- declaracao variavel
+5- atribuiçoes (corrigir conversao na atribuicao)
+6- identificacao de erros(mostra linha) 
+7- loops (while,for)
+8- blocos (contexto)
+9- operadores unarios ++ -- 
+10- açucar sintatico += -= *= /=
+11- entrada/saida de dados (funcao print ex: print (a) . funcao imput ex: a = imput("Entre com o valor") ou a = imput() )
